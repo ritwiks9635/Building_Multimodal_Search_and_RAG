@@ -15,3 +15,16 @@ Triplet loss requires three inputs (anchor, positive, and negative), whereas con
 Contrastive learning allows models to extract meaningful representations from unlabeled data. By leveraging similarity and dissimilarity, contrastive learning enables models to map similar instances close together in a latent space while pushing apart those that are dissimilar.
 
 ![](https://images.app.goo.gl/C8tgVifRp5aNU8DP9)
+
+**Weaviate** is an open-source vector database that uses AI to help developers build AI-powered applications. It's a flexible platform that combines keyword and vector search with machine learning (ML) models to deliver fast, relevant, and contextual search results. 
+Weaviate's features include:
+
+- Fast queries: Weaviate can perform nearest neighbor (NN) searches of millions of objects in less than 100 milliseconds.
+  
+- AI models: Weaviate makes it easy to use state-of-the-art AI models.
+  
+- Scalability: Weaviate is cloud-native, distributed, and scales with workloads.
+  
+- Ease of use: Weaviate is easy to integrate with current architecture and has full CRUD support.
+  
+Weaviate's ecosystem is designed to allow users to build and test applications for free, with the option to choose a plan for production when ready. 
